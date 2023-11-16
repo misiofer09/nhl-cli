@@ -1,1 +1,1 @@
-program that gets data from NHL stats API (currently schedule for this week)
+Currently DOES NOT work (new version of the API was released by NHL).
